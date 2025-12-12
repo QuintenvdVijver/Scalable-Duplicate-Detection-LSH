@@ -1,6 +1,6 @@
 # Scalable-Product-Duplication-Detection-using-LSH
 
-This repository contains the implementation and evaluation code for the paper Scalable Product Duplicate Detection using LSH by Quinten van de Vijver (Erasmus University Rotterdam, 2025). The work extends the state-of-the-art MSMP+ framework for scalable duplicate detection in product data aggregation from webshops. Key contributions include:
+This repository contains the implementation and evaluation code for the paper Scalable Product Duplicate Detection using LSH. The work extends the state-of-the-art MSMP+ framework for scalable duplicate detection in product data aggregation from webshops. Key contributions include:
 
 A global data-cleaning procedure to remove non-alphanumeric tokens (with exceptions for – and /).
 A unified model word definition for product titles and feature values, combined with frequency-based filtering of features (retaining only those in ≥10% of products).
