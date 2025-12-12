@@ -37,3 +37,7 @@ Hash band signatures into buckets using h(s) = (s · a) mod p; pairs in the same
 Pair Completeness (PC): Fraction of true duplicates in candidate pairs.
 Pair Quality (PQ): Fraction of candidate pairs that are true duplicates.
 F1*/F1: Harmonic mean of PC and PQ, balanced for scalability.
+
+## Installation
+This project uses Python 3.8+ and requires the following dependencies:
+'pip install numpy scipy pandas scikit-learn optuna matplotlib seaborn'
