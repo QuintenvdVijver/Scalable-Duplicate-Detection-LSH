@@ -45,6 +45,6 @@ This project uses Python 3.8+ and requires the following dependencies:
 ## Usage
 1. Download the full content of this repository
 2. Run MSMP+ for baseline results (outputs MSMP+ graphs)
-3. Run MSMP++ for extension results (outputs MSMP++ with MSMP+ baseline)
+3. Run MSMP++ for extension results (outputs MSMP++ graphs with MSMP+ baseline)
 
 Note: code is written such that runtime can be terminated and restarted at any time, without losing progress (due to long runtime for MSM).
