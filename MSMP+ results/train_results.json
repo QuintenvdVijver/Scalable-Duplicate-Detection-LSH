@@ -1,0 +1,2522 @@
+[
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            1,
+            1636
+        ],
+        "best_f1": 0.00010566869965291242,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            2,
+            818
+        ],
+        "best_f1": 0.00011058494082813851,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            3,
+            546
+        ],
+        "best_f1": 0.00015509493548184386,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            4,
+            409
+        ],
+        "best_f1": 0.00026763418951025465,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            5,
+            328
+        ],
+        "best_f1": 0.0003864246063299323,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            6,
+            273
+        ],
+        "best_f1": 0.0008457106612400232,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            7,
+            234
+        ],
+        "best_f1": 0.0010848264277715566,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            8,
+            205
+        ],
+        "best_f1": 0.0014051671829591543,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            9,
+            182
+        ],
+        "best_f1": 0.002710027100271003,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            10,
+            164
+        ],
+        "best_f1": 0.0021253985122210413,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            11,
+            149
+        ],
+        "best_f1": 0.0005159958720330237,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            13,
+            126
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            14,
+            117
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            18,
+            91
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            20,
+            82
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            21,
+            78
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            26,
+            63
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            39,
+            42
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            40,
+            41
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            41,
+            40
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            42,
+            39
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            63,
+            26
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            78,
+            21
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            82,
+            20
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            91,
+            18
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            117,
+            14
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            126,
+            13
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            149,
+            11
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            164,
+            10
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            182,
+            9
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            205,
+            8
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            234,
+            7
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            273,
+            6
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            328,
+            5
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            409,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            410,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            546,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            547,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            818,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            819,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            820,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 0,
+        "(r,b)": [
+            1636,
+            1
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            1,
+            1636
+        ],
+        "best_f1": 0.00010224983153921197,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            2,
+            818
+        ],
+        "best_f1": 0.00010697541056198042,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            3,
+            546
+        ],
+        "best_f1": 0.00016577856719952636,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            4,
+            409
+        ],
+        "best_f1": 0.0003027272749830646,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            5,
+            328
+        ],
+        "best_f1": 0.0004070380580584285,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            6,
+            273
+        ],
+        "best_f1": 0.0008613794376422814,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            7,
+            234
+        ],
+        "best_f1": 0.0011584129742253113,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            8,
+            205
+        ],
+        "best_f1": 0.0012576896787423104,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            9,
+            182
+        ],
+        "best_f1": 0.00199203187250996,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            10,
+            164
+        ],
+        "best_f1": 0.00250598017997494,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            11,
+            149
+        ],
+        "best_f1": 0.0020092425155716293,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            13,
+            126
+        ],
+        "best_f1": 0.0008077544426494345,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            14,
+            117
+        ],
+        "best_f1": 0.001016260162601626,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            18,
+            91
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            20,
+            82
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            21,
+            78
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            26,
+            63
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            39,
+            42
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            40,
+            41
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            41,
+            40
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            42,
+            39
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            63,
+            26
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            78,
+            21
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            82,
+            20
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            91,
+            18
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            117,
+            14
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            126,
+            13
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            149,
+            11
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            164,
+            10
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            182,
+            9
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            205,
+            8
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            234,
+            7
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            273,
+            6
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            328,
+            5
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            409,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            410,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            546,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            547,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            818,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            819,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            820,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 1,
+        "(r,b)": [
+            1636,
+            1
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            1,
+            1636
+        ],
+        "best_f1": 9.111801808186447e-05,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            2,
+            818
+        ],
+        "best_f1": 9.555915377060494e-05,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            3,
+            546
+        ],
+        "best_f1": 0.00015272800348327026,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            4,
+            409
+        ],
+        "best_f1": 0.0002955029122589643,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            5,
+            328
+        ],
+        "best_f1": 0.0004548698523241497,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            6,
+            273
+        ],
+        "best_f1": 0.0009166210219206564,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            7,
+            234
+        ],
+        "best_f1": 0.0012830147180116938,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            8,
+            205
+        ],
+        "best_f1": 0.0016400724365326137,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            9,
+            182
+        ],
+        "best_f1": 0.002537080405932865,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            10,
+            164
+        ],
+        "best_f1": 0.0041934215699122,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            11,
+            149
+        ],
+        "best_f1": 0.003018108651911469,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            13,
+            126
+        ],
+        "best_f1": 0.0029397354238118573,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            14,
+            117
+        ],
+        "best_f1": 0.0011778563015312133,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            18,
+            91
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            20,
+            82
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            21,
+            78
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            26,
+            63
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            39,
+            42
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            40,
+            41
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            41,
+            40
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            42,
+            39
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            63,
+            26
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            78,
+            21
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            82,
+            20
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            91,
+            18
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            117,
+            14
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            126,
+            13
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            149,
+            11
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            164,
+            10
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            182,
+            9
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            205,
+            8
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            234,
+            7
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            273,
+            6
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            328,
+            5
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            409,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            410,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            546,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            547,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            818,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            819,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            820,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 2,
+        "(r,b)": [
+            1636,
+            1
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            1,
+            1636
+        ],
+        "best_f1": 9.877543999775201e-05,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            2,
+            818
+        ],
+        "best_f1": 0.00010355571029397324,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            3,
+            546
+        ],
+        "best_f1": 0.00016278779525636365,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            4,
+            409
+        ],
+        "best_f1": 0.0002695501622484631,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            5,
+            328
+        ],
+        "best_f1": 0.000389737960875081,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            6,
+            273
+        ],
+        "best_f1": 0.0009334889148191365,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            7,
+            234
+        ],
+        "best_f1": 0.001260576427220811,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            8,
+            205
+        ],
+        "best_f1": 0.0012698815835423347,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            9,
+            182
+        ],
+        "best_f1": 0.0016874077198903185,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            10,
+            164
+        ],
+        "best_f1": 0.0021798365122615805,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            11,
+            149
+        ],
+        "best_f1": 0.001000250062515629,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            13,
+            126
+        ],
+        "best_f1": 0.0009920634920634922,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            14,
+            117
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            18,
+            91
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            20,
+            82
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            21,
+            78
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            26,
+            63
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            39,
+            42
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            40,
+            41
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            41,
+            40
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            42,
+            39
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            63,
+            26
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            78,
+            21
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            82,
+            20
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            91,
+            18
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            117,
+            14
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            126,
+            13
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            149,
+            11
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            164,
+            10
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            182,
+            9
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            205,
+            8
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            234,
+            7
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            273,
+            6
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            328,
+            5
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            409,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            410,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            546,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            547,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            818,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            819,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            820,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 3,
+        "(r,b)": [
+            1636,
+            1
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            1,
+            1636
+        ],
+        "best_f1": 0.00010702954780016055,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            2,
+            818
+        ],
+        "best_f1": 0.00011204352268392256,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            3,
+            546
+        ],
+        "best_f1": 0.0001729016464078997,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            4,
+            409
+        ],
+        "best_f1": 0.00034171149405341913,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            5,
+            328
+        ],
+        "best_f1": 0.00047036300471188204,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            6,
+            273
+        ],
+        "best_f1": 0.0009669583264545647,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            7,
+            234
+        ],
+        "best_f1": 0.0012917810431131924,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            8,
+            205
+        ],
+        "best_f1": 0.0014579789634463843,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            9,
+            182
+        ],
+        "best_f1": 0.0026479274875241877,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            10,
+            164
+        ],
+        "best_f1": 0.003258293838862559,
+        "best_params": {
+            "epsilon": 0.6000000000000001
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            11,
+            149
+        ],
+        "best_f1": 0.002126528442317916,
+        "best_params": {
+            "epsilon": 1.0
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            13,
+            126
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            14,
+            117
+        ],
+        "best_f1": 0.001195457262402869,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            18,
+            91
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            20,
+            82
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            21,
+            78
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            26,
+            63
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            39,
+            42
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            40,
+            41
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            41,
+            40
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            42,
+            39
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            63,
+            26
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            78,
+            21
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            82,
+            20
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            91,
+            18
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            117,
+            14
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            126,
+            13
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            149,
+            11
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            164,
+            10
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            182,
+            9
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            205,
+            8
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            234,
+            7
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            273,
+            6
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            328,
+            5
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            409,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            410,
+            4
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            546,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            547,
+            3
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            818,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            819,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            820,
+            2
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    },
+    {
+        "bootstrap": 4,
+        "(r,b)": [
+            1636,
+            1
+        ],
+        "best_f1": 0.0,
+        "best_params": {
+            "epsilon": 0.2
+        },
+        "n_trials": 10
+    }
+]
